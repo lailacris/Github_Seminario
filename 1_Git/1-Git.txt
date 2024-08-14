@@ -1,0 +1,10 @@
+- O Que é o Git?
+É um sistema de controle de versão. Organiza, controla e versiona códigos de um projeto.
+
+- Instale o Github na sua máquina. O sistema de versionamento do Git é local.
+
+- Iniciando e manuseando um repositório Git na sua máquina.
+Usando o Git Bash você precisa usar linhas de comando para acessar a pasta que queira iniciar um repositório local, já  No Github você utilizando o terminal ele já vai criar um repositório da pasta do projeto. Após estar acessando a pasta desejada, seja no Git Bash ou no VS Code, utilize o comando 'git init'.
+
+
+
