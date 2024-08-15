@@ -1,5 +1,5 @@
 '''
-    Alguns conceitos:
+    Alguns conceitos: 
         Branch:
         Staging:
         Commit:
